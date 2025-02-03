@@ -1,0 +1,5 @@
+$6$McEb2U/Kx5gWBAwz$e8azfqOcn1Dmd1PTBZhn.6WImilWS6pwjO8THn5LlILmMjYBhQG.1SoSECb8cTdhMBb6tgWLSj477x1JeMciI1192.168.43.108 
+
+sudo /home/dell/ai/myvenv/bin/python3 filemix4.py
+source myvenv/bin/activate
+192.168.43.108 
