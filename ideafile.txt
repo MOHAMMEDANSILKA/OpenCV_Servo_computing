@@ -5,3 +5,4 @@ use liniar actuaters
 build a flight or glider with expandable wings use he can be also considrable
 use reverse flight mechanism
 elecromagnetic launching system or streached system
+use small servo and esp32 chip
