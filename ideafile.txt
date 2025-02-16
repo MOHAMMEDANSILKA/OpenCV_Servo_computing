@@ -7,4 +7,4 @@ use reverse flight mechanism
 elecromagnetic launching system or streached system
 use small servo and esp32 chip
 REVERSE FLIGHT MECHANISM WITH WINGS CHANGE
-
+use foam plane and drone combination or just drone with umberla
