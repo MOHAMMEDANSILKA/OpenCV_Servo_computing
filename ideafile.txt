@@ -10,3 +10,4 @@ REVERSE FLIGHT MECHANISM WITH WINGS CHANGE
 use foam plane and drone combination or just drone with umberla
 use aluminium metal frame and aerodynamics cloth
 use co2 thruster for launching
+ornithoper setup for the drone
