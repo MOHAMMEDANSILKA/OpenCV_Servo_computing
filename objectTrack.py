@@ -11,7 +11,7 @@ os.system('v4l2-ctl -p 40')
 
 # Frame Size. Smaller is faster, but less accurate.
 # Wide and short is better, since moving your head up and down is harder to do.
-# W = 160 and H = 100 are good settings if you are using and earlier Raspberry Pi Version.
+# W = 160 and H = 100 are good settings if you are using and earlier Raspberry Pi Version
 FRAME_W = 320
 FRAME_H = 200
 
