@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#Below we are importing functionality to our Code, OPEN-CV, Time, and Pimoroni Pan Tilt Hat Package of particular note.
+#Below we are importing functionality to our Code, OPEN-CV, Time, and Pimoroni Pan Tilt Hat Package of particular note
 import cv2, sys, time, os
 from pantilthat import *
 
