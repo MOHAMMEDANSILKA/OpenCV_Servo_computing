@@ -17,6 +17,7 @@ FRAME_H = 200
 
 # Default Pan/Tilt for the camera in degrees. I have set it up to roughly point at my face location when it starts the code.
 # Camera range is from 0 to 180. Alter the values below to determine the starting point for your pan and tilt.
+# pan and tilt below
 cam_pan = 40
 cam_tilt = 20
 
