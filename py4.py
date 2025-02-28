@@ -5,7 +5,7 @@ import serial
 import time
 import numpy as np
 
-# Initialize serial connection
+# Initialize serial connection.
 ser = serial.Serial('COM11', 115200)
 time.sleep(2)
 
