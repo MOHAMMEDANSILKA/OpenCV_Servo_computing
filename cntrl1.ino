@@ -8,7 +8,7 @@ const int tiltPin = 13;
 
 int panAngle = 90;
 int tiltAngle = 90;
-
+//setup
 void setup() {
   Serial.begin(115200);
   panServo.attach(panPin);
