@@ -84,7 +84,7 @@ while True:
         smooth_pan = smooth_angle(pan_angle, pan_buffer)
         smooth_tilt = smooth_angle(tilt_angle, tilt_buffer)
 
-        # Visual feedback
+        
         cv2.putText(img, f"Pan: {smooth_pan}°", (10, 30),
                    cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0,255,0), 2)
         cv2.putText(img, f"Tilt: {smooth_tilt}°", (10, 60),
