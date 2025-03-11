@@ -4,7 +4,7 @@ import cv2, sys, time, os
 from pantilthat import *
 
 # Load the BCM V4l2 driver for /dev/video0. This driver has been installed from earlier terminal commands. 
-#This is really just to ensure everything is as it should be.
+
 os.system('sudo modprobe bcm2835-v4l2')
 # Set the framerate (not sure this does anything! But you can change the number after | -p | to allegedly increase or decrease the framerate).
 os.system('v4l2-ctl -p 40')
