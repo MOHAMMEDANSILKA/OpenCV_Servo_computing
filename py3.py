@@ -8,8 +8,6 @@ import numpy as np
 
 ser = serial.Serial('COM11', 115200)
 time.sleep(2)
-
-# Initialize camera
 cap = cv2.VideoCapture(0)
 cap.set(3, 640)  # Width
 cap.set(4, 480)  # Height
