@@ -12,7 +12,7 @@ cap = cv2.VideoCapture(0)
 cap.set(3, 640)  # Width
 cap.set(4, 480)  # Height
 
-# Initialize face detector
+
 detector = FaceDetector(minDetectionCon=0.75)
 
 # Servo parameters with reduced sensitivity
