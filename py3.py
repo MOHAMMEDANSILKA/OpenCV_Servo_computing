@@ -31,7 +31,6 @@ tilt_kp = 0.2   # Reduced from 0.25
 deadzone = 60    # Increased from 40
 max_step = 3     # Maximum angle change per frame
 
-# Smoothing buffer (moving average)
 angle_buffer_size = 5
 pan_buffer = [pan_center] * angle_buffer_size
 tilt_buffer = [90] * angle_buffer_size
