@@ -15,7 +15,7 @@ cap.set(4, 480)  # Height
 
 detector = FaceDetector(minDetectionCon=0.75)
 
-# Servo parameters with reduced sensitivity
+# Servo parameters with reduced sensitivity.
 pan_center = 90
 pan_range = 45  # ±45° from center
 pan_min = 45
