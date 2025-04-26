@@ -3,4 +3,5 @@ $6$McEb2U/Kx5gWBAwz$e8azfqOcn1Dmd1PTBZhn.6WImilWS6pwjO8THn5LlILmMjYBhQG.1SoSECb8
 sudo /home/dell/ai/myvenv/bin/python3 filemix4.py
 source myvenv/bin/activate
 this is for ai assistant project
-192.168.43.108 
+192.168.43.108
+stepper motor big video  https://youtu.be/PZbc-IgfDa8?si=BcL0aQ-axDbkwzup
