@@ -5,3 +5,5 @@ source myvenv/bin/activate
 this is for ai assistant project
 192.168.43.108
 stepper motor big video  https://youtu.be/PZbc-IgfDa8?si=BcL0aQ-axDbkwzup
+BLUE WIRE POSITIVE
+
