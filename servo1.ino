@@ -5,6 +5,7 @@
 
 Servo panServo; // Create servo object for pan
 
+
 Servo tiltServo; // Create servo object for tilt
 
 void setup() {
